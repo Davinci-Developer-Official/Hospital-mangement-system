@@ -1,0 +1,2 @@
+/home/thomas/Projects/SchWea/SchWea/obj/x86/Debug/SchWea.csprojAssemblyReference.cache
+/home/thomas/Projects/SchWea/SchWea/obj/x86/Debug/SchWea.csproj.CoreCompileInputs.cache
